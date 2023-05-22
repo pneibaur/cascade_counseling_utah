@@ -1,3 +1,14 @@
+@import "~bootstrap/scss/bootstrap";
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;500;700&family=Montagu+Slab:wght@200;400;700&family=Nokora:wght@300;400;700&display=swap');
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
 body {
-    background-color: slategray;
+    font-family: 'Nokora', sans-serif;
+    background-color: azure;
+    min-height: 100vh;
 }
