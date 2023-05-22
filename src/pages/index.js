@@ -1,10 +1,11 @@
 import * as React from "react"
+import Layout from "../components/layout.jsx"
 
 const IndexPage = () => {
   return (
-    <main>
-      <h1>Cascade Counseling</h1>
-    </main>
+    <Layout>
+      <h1>CASCADE COUNSELING</h1>
+    </Layout>
   )
 }
 
